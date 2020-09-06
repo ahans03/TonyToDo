@@ -35,8 +35,9 @@ GIF created with [ScreenToGif](https://www.screentogif.com/).
 Describe any challenges encountered while building the app.
 
 I ran into many challenges while making this app.  While the instruction were easy to follow and the code was given, I had a hard time keeping up with methods/objects
-being called.  My understanding of how certain variables obtain their values within this program is also limited.  I have no doubt that practice will make it easier to 
-follow exactly what the program is executing.  
+being called.  My understanding of how certain variables obtain their values within this program is also limited.  I have no doubt that practice will make it easier to follow exactly what the program is executing.  
+
+Another challenge worth noting is the use of git and github.  I'm completely new to both so I had to review the steps the setup and use the VCS multiple times.  Again, practice will make me more proficient at this.
 
 ## License
 
